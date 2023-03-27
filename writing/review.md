@@ -73,7 +73,13 @@ TODO: Retype the learning objective and then explain why you have mastered the t
 TODO: Retype the learning objective and then explain what you did to improve your knowledge
 TODO: When you are writing your response to this question, please follow this template:
 
-
+When I was working on `fill in the name of a project`, I made a mistake when I
+`explain details about the mistake`. I did not understand `explain what you did
+not understand`. Now I know `explain what you know`. I revealed the gap in my
+understanding by `explain what steps you took to identify the gap`. Now I know
+`explain what you now know`. To demonstrate my improved understanding, I will
+`explain what steps you will take now that you understand the learning
+objective`.
 
 ### Give a learning objective that connects to covered material but for which you must continue to work
 
