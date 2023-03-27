@@ -5,34 +5,6 @@ note that, in addition to ensuring that your GitHub repository has a passing
 build, the course instructor will also confirm that you have adequately answered
 all of the questions by providing meaningful responses to each of them.
 
-## Table of Contents
-
-* [Technical Review](#technical-review)
-+ [Record three Python functions from the following sources that you can correctly write on your own without assistance](#record-three-python-functions-from-the-following-sources-that-you-can-correctly-write-on-your-own-without-assistance)
-    - [Provide the first Python function that you can write on your own without assistance](#provide-the-first-python-function-that-you-can-write-on-your-own-without-assistance)
-    - [Provide the second Python function that you can write on your own without assistance](#provide-the-second-python-function-that-you-can-write-on-your-own-without-assistance)
-    - [Provide the third Python function that you can write on your own without assistance](#provide-the-third-python-function-that-you-can-write-on-your-own-without-assistance)
-+ [Using a previously provided function, provide Python code to show how to call it](#using-a-previously-provided-function-provide-python-code-to-show-how-to-call-it)
-+ [Using a previously provided function, modify it to illustrate a defect and then explain why it is wrong](#using-a-previously-provided-function-modify-it-to-illustrate-a-defect-and-then-explain-why-it-is-wrong)
-+ [Using the defective function, provide a function call example that would show it is wrong](#using-the-defective-function-provide-a-function-call-example-that-would-show-it-is-wrong)
-* [Learning Objectives](#learning-objectives)
-+ [Record three learning objectives for which you judge you can demonstrate mastery of the technical skill](#record-three-learning-objectives-for-which-you-judge-you-can-demonstrate-mastery-of-the-technical-skill)
-    - [Restate the first learning objective and then explain how you know that you have mastered it](#restate-the-first-learning-objective-and-then-explain-how-you-know-that-you-have-mastered-it)
-    - [Restate the second learning objective and then explain how you know that you have mastered it](#restate-the-second-learning-objective-and-then-explain-how-you-know-that-you-have-mastered-it)
-    - [Restate the third learning objective and then explain how you know that you have mastered it](#restate-the-third-learning-objective-and-then-explain-how-you-know-that-you-have-mastered-it)
-+ [Give a learning objective that connects to covered material but for which you must continue to work](#give-a-learning-objective-that-connects-to-covered-material-but-for-which-you-must-continue-to-work)
-* [Review Checklist](#review-checklist)
-* [Professional Evaluation](#professional-evaluation)
-+ [On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-was-challenged-intellectually-by-the-content-and-activities-during-this-module)
-+ [On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-had-plenty-of-support-from-my-professor-my-classmates-the-student-technical-leaders-and-the-course-software-as-i-worked-during-this-module)
-+ [On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-am-closer-to-mastering-the-technical-and-scientific-concepts-of-the-course-now-than-i-was-at-the-start-of-this-module)
-+ [On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of computer scientists during the past week"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-felt-that-i-was-a-part-of-a-community-of-computer-scientists-during-the-past-week)
-+ [On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in computer science because of my own efforts and choices"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-during-the-past-module-i-made-progress-in-mastering-the-technical-knowledge-and-skills-in-computer-science-because-of-my-own-efforts-and-choices)
-* [Professional Reflection and Action](#professional-reflection-and-action)
-+ [What is one way in which you think this course will be the same in five years? Why?](#what-is-one-way-in-which-you-think-this-course-will-be-the-same-in-five-years-why)
-+ [What is one way in which you think this course will be the different in five years? Why?](#what-is-one-way-in-which-you-think-this-course-will-be-the-different-in-five-years-why)
-+ [Find at least one way to improve the Proactive Programmers web site and report it through the issue tracker](#find-at-least-one-way-to-improve-the-proactive-programmers-web-site-and-report-it-through-the-issue-tracker)
-
 ## Technical Review
 
 ### Record three Python functions from the following sources that you can correctly write on your own without assistance
