@@ -44,4 +44,4 @@ jobs:
         - name: Run GatorGrader with GatorGrade
           run:  |
             pipx install gatorgrade
-            gatorgrade --config config/gatorgrade.yml
+            gatorgrade --config config/gatorgrade.yml --report env md GITHUB_STEP_SUMMARY
